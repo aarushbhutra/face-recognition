@@ -1,4 +1,4 @@
-#Face and Eye Recognition with Movement Detection
+# Face and Eye Recognition with Movement Detection
 This repository contains a Python script that utilizes OpenCV to detect faces and eyes in real-time from a webcam feed. Additionally, it tracks the movement direction of the detected face (up, down, left, or right).
 
 #Dependencies
